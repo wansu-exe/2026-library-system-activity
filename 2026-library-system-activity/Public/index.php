@@ -13,7 +13,6 @@ require_once __DIR__ . '/../src/Service/LibraryService.php';
 require_once __DIR__ . '/../src/Repository/BookRepository.php';
 require_once __DIR__ . '/../src/Repository/BorrowRepository.php';
 
-
 use App\DatabaseConnection;
 use App\LibraryService;
 use App\Exception\DatabaseException;
